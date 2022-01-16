@@ -7,3 +7,16 @@ To run:
 Open the mouse simulation maze -> /mms/bin/mms
 
 build it and run
+
+## Simulations
+
+1. The objective is to find a path towards the goal point.
+  a. It must create an approximate path.
+  b. It must actually traverse the path to validate it.
+  
+  ![ss1](extras/sim_ss1.png)
+  
+
+2. Mouse maze solver finding the path towards the goal
+
+    ![simulation](extras/simulation.gif)
